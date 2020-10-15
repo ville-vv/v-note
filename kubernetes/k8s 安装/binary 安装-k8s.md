@@ -8,7 +8,7 @@
 - kube-proxy
 - kube-scheduler
 - kube-controller-manager
-
+- kubelet
 
 ## 修改系统设置
 
